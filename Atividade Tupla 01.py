@@ -1,0 +1,6 @@
+cheese_bacon = ("pão", "hambúrguer", "tomate", "alface", "ovo", "queijo", "bacon")
+hamburguer = ("pão", "hambúrguer", "tomate", "alface", "queijo")
+mc_chicken = ("pão", "hambúrguer de frango", "tomate", "alface", "ovo", "queijo")
+print (f"o Hambúrguer contem : {hamburguer}")
+print (f"o MAC Chicken contem : {mc_chicken}")
+print (f"o Cheese Bacon contem : {cheese_bacon}")
